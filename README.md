@@ -1,0 +1,2 @@
+# itscold
+Learning Django Project
